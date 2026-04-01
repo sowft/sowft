@@ -20,9 +20,10 @@
 
 ## 📊 Estatísticas
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sowft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowft&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sowft&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sowft&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Langs" />
 </div>
+
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellani-lyvian)
