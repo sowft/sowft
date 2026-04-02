@@ -1,6 +1,6 @@
 # 🌻 Olá, eu sou a Mellani Lyvian!
 
-- 🎓 Estudante de Engenharia de Software (6º período – FUSVE).
+- 🎓 Estudante de Engenharia de Software (7º período – FUSVE).
 - 💻 Dev front-end focada em experiências web (HTML, CSS, JS) e APIs em Node/Java.
 - 🔌 Experiência com Arduino/Tinkercad (automação, sensores, LEDs + buzzer).
 - 🎨 Curto unir tecnologia + criatividade, explorando design e arte no código.
